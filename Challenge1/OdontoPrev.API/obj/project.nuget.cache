@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bkMdLtGQCYs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FELIPE\\source\\repos\\Challenge1\\OdontoPrev.API\\OdontoPrev.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FELIPE\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.8\\microsoft.dotnet.ilcompiler.8.0.8.nupkg.sha512",
+    "C:\\Users\\FELIPE\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.8\\microsoft.net.illink.tasks.8.0.8.nupkg.sha512",
+    "C:\\Users\\FELIPE\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.8\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
