@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FELIPE\\source\\repos\\Challenge1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDBD6D8-EC1F-4DD6-8F79-3CBDAA91318F}|OdontoPrev.Application\\OdontoPrev.Application.csproj|c:\\users\\felipe\\source\\repos\\challenge1\\odontoprev.application\\dtos\\resgatarrecompensadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDBD6D8-EC1F-4DD6-8F79-3CBDAA91318F}|OdontoPrev.Application\\OdontoPrev.Application.csproj|solutionrelative:odontoprev.application\\dtos\\resgatarrecompensadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDBD6D8-EC1F-4DD6-8F79-3CBDAA91318F}|OdontoPrev.Application\\OdontoPrev.Application.csproj|c:\\users\\felipe\\source\\repos\\challenge1\\odontoprev.application\\dtos\\pacientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDBD6D8-EC1F-4DD6-8F79-3CBDAA91318F}|OdontoPrev.Application\\OdontoPrev.Application.csproj|solutionrelative:odontoprev.application\\dtos\\pacientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDBD6D8-EC1F-4DD6-8F79-3CBDAA91318F}|OdontoPrev.Application\\OdontoPrev.Application.csproj|c:\\users\\felipe\\source\\repos\\challenge1\\odontoprev.application\\dtos\\fotocomprovacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDBD6D8-EC1F-4DD6-8F79-3CBDAA91318F}|OdontoPrev.Application\\OdontoPrev.Application.csproj|solutionrelative:odontoprev.application\\dtos\\fotocomprovacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDBD6D8-EC1F-4DD6-8F79-3CBDAA91318F}|OdontoPrev.Application\\OdontoPrev.Application.csproj|c:\\users\\felipe\\source\\repos\\challenge1\\odontoprev.application\\services\\tarefaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDBD6D8-EC1F-4DD6-8F79-3CBDAA91318F}|OdontoPrev.Application\\OdontoPrev.Application.csproj|solutionrelative:odontoprev.application\\services\\tarefaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDBD6D8-EC1F-4DD6-8F79-3CBDAA91318F}|OdontoPrev.Application\\OdontoPrev.Application.csproj|c:\\users\\felipe\\source\\repos\\challenge1\\odontoprev.application\\services\\pacienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDBD6D8-EC1F-4DD6-8F79-3CBDAA91318F}|OdontoPrev.Application\\OdontoPrev.Application.csproj|solutionrelative:odontoprev.application\\services\\pacienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResgatarRecompensaDto.cs",
+              "DocumentMoniker": "C:\\Users\\FELIPE\\source\\repos\\Challenge1\\OdontoPrev.Application\\DTOs\\ResgatarRecompensaDto.cs",
+              "RelativeDocumentMoniker": "OdontoPrev.Application\\DTOs\\ResgatarRecompensaDto.cs",
+              "ToolTip": "C:\\Users\\FELIPE\\source\\repos\\Challenge1\\OdontoPrev.Application\\DTOs\\ResgatarRecompensaDto.cs",
+              "RelativeToolTip": "OdontoPrev.Application\\DTOs\\ResgatarRecompensaDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T22:47:48.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PacienteDto.cs",
+              "DocumentMoniker": "C:\\Users\\FELIPE\\source\\repos\\Challenge1\\OdontoPrev.Application\\DTOs\\PacienteDto.cs",
+              "RelativeDocumentMoniker": "OdontoPrev.Application\\DTOs\\PacienteDto.cs",
+              "ToolTip": "C:\\Users\\FELIPE\\source\\repos\\Challenge1\\OdontoPrev.Application\\DTOs\\PacienteDto.cs",
+              "RelativeToolTip": "OdontoPrev.Application\\DTOs\\PacienteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T22:47:46.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FotoComprovacaoDto.cs",
+              "DocumentMoniker": "C:\\Users\\FELIPE\\source\\repos\\Challenge1\\OdontoPrev.Application\\DTOs\\FotoComprovacaoDto.cs",
+              "RelativeDocumentMoniker": "OdontoPrev.Application\\DTOs\\FotoComprovacaoDto.cs",
+              "ToolTip": "C:\\Users\\FELIPE\\source\\repos\\Challenge1\\OdontoPrev.Application\\DTOs\\FotoComprovacaoDto.cs",
+              "RelativeToolTip": "OdontoPrev.Application\\DTOs\\FotoComprovacaoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T22:47:44.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TarefaService.cs",
+              "DocumentMoniker": "C:\\Users\\FELIPE\\source\\repos\\Challenge1\\OdontoPrev.Application\\Services\\TarefaService.cs",
+              "RelativeDocumentMoniker": "OdontoPrev.Application\\Services\\TarefaService.cs",
+              "ToolTip": "C:\\Users\\FELIPE\\source\\repos\\Challenge1\\OdontoPrev.Application\\Services\\TarefaService.cs",
+              "RelativeToolTip": "OdontoPrev.Application\\Services\\TarefaService.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T22:47:40.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PacienteService.cs",
+              "DocumentMoniker": "C:\\Users\\FELIPE\\source\\repos\\Challenge1\\OdontoPrev.Application\\Services\\PacienteService.cs",
+              "RelativeDocumentMoniker": "OdontoPrev.Application\\Services\\PacienteService.cs",
+              "ToolTip": "C:\\Users\\FELIPE\\source\\repos\\Challenge1\\OdontoPrev.Application\\Services\\PacienteService.cs",
+              "RelativeToolTip": "OdontoPrev.Application\\Services\\PacienteService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T22:47:39.178Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
